@@ -1,0 +1,6 @@
+Código da turma: 00001
+Período: 2019.2
+Código da disciplina: 12345
+CPF do professor: 123.456.789-00
+Alunos: ['123.456.789-01', '123.456.789-02']
+
